@@ -1,0 +1,17 @@
+h1{
+    font-size: 60px;
+    color:darkolivegreen;
+    text-align: center;
+}
+h2{
+    font-size: 35px;
+    color:black;
+    border:3px solid gray;
+    background-color: cornsilk;
+    text-align: center;
+}
+body{
+    background-color:rgb(152, 235, 207);
+    background-size: cover;
+    opacity: 1;
+}
